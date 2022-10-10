@@ -1,1 +1,1 @@
-Esses são meus primeiros projetos
+Esses são os mini jogos que escolhi como primeiro projeto.

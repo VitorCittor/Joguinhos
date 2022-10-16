@@ -2,10 +2,6 @@
 
 #Você é um aventureiro em um mundo assolado por guerras constantes e precisa escolher entre duas faccões: Saqueadores e Pacificadores. Apenas os Saqueadores irão vencer.
 
-
-
-
-
 import PySimpleGUI as sg
 
 

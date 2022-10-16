@@ -50,4 +50,8 @@ class ChuteONUmero:
 
 
 chute = ChuteONUmero()
+<<<<<<< HEAD
 chute.Iniciar() 
+=======
+chute.Iniciar() 
+>>>>>>> e993bb768899ea3907545f62055f02e17545e509
